@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+
+/webhook-engine
+*.test
+coverage.out
+
+.idea/
+.vscode/
+.DS_Store
+
+*.log
