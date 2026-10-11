@@ -1,0 +1,5 @@
+DROP TABLE IF EXISTS delivery_attempts;
+DROP TABLE IF EXISTS deliveries;
+DROP TABLE IF EXISTS events;
+
+DROP EXTENSION IF EXISTS pgcrypto;
